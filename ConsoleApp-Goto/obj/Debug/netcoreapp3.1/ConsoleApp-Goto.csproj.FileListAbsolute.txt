@@ -1,0 +1,12 @@
+C:\Users\Laptop\source\repos\ConsoleApp-Goto\ConsoleApp-Goto\bin\Debug\netcoreapp3.1\ConsoleApp-Goto.exe
+C:\Users\Laptop\source\repos\ConsoleApp-Goto\ConsoleApp-Goto\bin\Debug\netcoreapp3.1\ConsoleApp-Goto.deps.json
+C:\Users\Laptop\source\repos\ConsoleApp-Goto\ConsoleApp-Goto\bin\Debug\netcoreapp3.1\ConsoleApp-Goto.runtimeconfig.json
+C:\Users\Laptop\source\repos\ConsoleApp-Goto\ConsoleApp-Goto\bin\Debug\netcoreapp3.1\ConsoleApp-Goto.runtimeconfig.dev.json
+C:\Users\Laptop\source\repos\ConsoleApp-Goto\ConsoleApp-Goto\bin\Debug\netcoreapp3.1\ConsoleApp-Goto.dll
+C:\Users\Laptop\source\repos\ConsoleApp-Goto\ConsoleApp-Goto\bin\Debug\netcoreapp3.1\ConsoleApp-Goto.pdb
+C:\Users\Laptop\source\repos\ConsoleApp-Goto\ConsoleApp-Goto\obj\Debug\netcoreapp3.1\ConsoleApp-Goto.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\ConsoleApp-Goto\ConsoleApp-Goto\obj\Debug\netcoreapp3.1\ConsoleApp-Goto.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\ConsoleApp-Goto\ConsoleApp-Goto\obj\Debug\netcoreapp3.1\ConsoleApp-Goto.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\ConsoleApp-Goto\ConsoleApp-Goto\obj\Debug\netcoreapp3.1\ConsoleApp-Goto.dll
+C:\Users\Laptop\source\repos\ConsoleApp-Goto\ConsoleApp-Goto\obj\Debug\netcoreapp3.1\ConsoleApp-Goto.pdb
+C:\Users\Laptop\source\repos\ConsoleApp-Goto\ConsoleApp-Goto\obj\Debug\netcoreapp3.1\ConsoleApp-Goto.genruntimeconfig.cache

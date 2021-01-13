@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WyjuBWtJFOuAuO0zvC/YTmbl/T2FCT4/xohYy3o3YgEwY7IufTE5ytBqOP36lQ8y2tKPPIMJgaMc+8XSVCesZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Laptop\\source\\repos\\ConsoleApp-Goto\\ConsoleApp-Goto\\ConsoleApp-Goto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Laptop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
